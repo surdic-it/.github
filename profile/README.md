@@ -1,20 +1,11 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/surdicit-github-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/surdicit-github-header-light.svg">
+  <img alt="Surdic IT" src="assets/surdicit-github-header-light.svg" width="100%">
+</picture>
 
-[![Surdic IT](https://media-static.surdic.it/Logo%20files/PNGs%20-%20SVGs/4x/Asset%2036@4x-8.png)](https://surdic.com)
+**We automate the work your team does by hand.**
 
-## Surdic IT
+With a CRM built around how you work, workflows that run by themselves, and AI where it helps. And websites for any business. Built in Nuremberg.
 
-**Scalable systems · Efficient backends · Sustainable software**
-
-We build robust architectures and backend solutions with a focus on technical precision and long-term quality.
-
-[Website](https://surdic.com)
-
-**Contact**  
-[contact@surdic.com](mailto:contact@surdic.com)
-
----
-
-*Backend · APIs · Process automation · AI integration · Web & SaaS*
-
-</div>
+[surdic.com](https://surdic.com) · [Start a project](https://surdic.com/contact) · [contact@surdic.com](mailto:contact@surdic.com)
